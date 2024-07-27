@@ -1,0 +1,11 @@
+name: 'zipcode_field'
+type: module
+description: '郵便番号のフィールド項目を追加します'
+package: Custom
+core_version_requirement: ^10 || ^11
+
+libraries:
+  - zipcode_field/global-styling
+  
+dependencies:
+  - drupal:field

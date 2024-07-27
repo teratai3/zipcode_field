@@ -1,0 +1,13 @@
+.zipcode-widget-container{
+    margin-block: var(--space-l);
+}
+
+.zipcode-widget-container .zipcode-label {
+    display: block;
+}
+
+.zipcode-widget-container .form-item {
+    margin: 0;
+    margin-right: 10px;
+    display: inline-block;
+}

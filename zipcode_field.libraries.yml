@@ -1,0 +1,8 @@
+global-styling:
+  css:
+    theme:
+      css/style.css: {}
+zipcode_field_icon:
+  css:
+    theme:
+      css/zipcode_field_icon.css: {}
